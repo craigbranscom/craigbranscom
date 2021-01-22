@@ -6,5 +6,3 @@
 - 😄 Pronouns: he/him
 
 [![Craig's Github Stats](https://github-readme-stats.vercel.app/api?username=craigbranscom)](https://github.com/craigbranscom/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigbranscom)](https://github.com/craigbranscom/github-readme-stats)
