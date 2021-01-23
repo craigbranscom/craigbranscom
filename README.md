@@ -1,4 +1,4 @@
-### Howdy ya'll I'm Craig 👋
+### Hello I'm Craig 👋
 
 - 🔭 Working on creating the future of decentralized applications
 - 🌱 Currently learning Solidity
